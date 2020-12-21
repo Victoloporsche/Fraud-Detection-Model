@@ -9,12 +9,12 @@ This implementation is written with Python version 3.6 with the listed packages 
 1) Clone this repository with git clone https://github.com/Victoloporsche/Fraud-Detection-Model.git
 2) With Virtual Environent, use : 
     a) pip install virtualenv
-    b) cd <path-to-the-cloned-repository>
+    b) cd path-to-the-cloned-repository
     c) virtualenv myenv
     d) source myenv/bin/activate
     e) pip install -r requirements.txt
 3) With Conda Environment, use:
-  a) cd <path-to-the-cloned-repository>
+  a) cd path-to-the-cloned-repository
   b) conda create --name myenv
   c) source activate myenv
   d) pip install -r requirements.txt
